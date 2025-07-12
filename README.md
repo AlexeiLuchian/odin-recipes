@@ -1,0 +1,4 @@
+This is the practical project "Recipes" from The Odin Project curriculum where I demonstrate my basic HTML knowledge by using the Boilerplate and other elements like headers, paragraphs, images, links and lists.
+The project by itself it's not something special, nevertheless I hope you'll like it after checking my recipes!
+The project it's also deployed on the web so you don't have to clone the repo or do anything else in order to see the result.
+Thank you for checking it out.
